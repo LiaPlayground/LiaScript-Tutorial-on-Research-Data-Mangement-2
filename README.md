@@ -27,6 +27,8 @@ This is the second part of the Come2Data workshop
 
 ### Formeln
 
+$$\frac{1}{x}$$
+
 ### Fußnoten
 
 ### Klassenräume
