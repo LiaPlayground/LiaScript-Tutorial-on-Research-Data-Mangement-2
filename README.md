@@ -23,6 +23,8 @@ edit:     true
 
 This is the second part of the Come2Data workshop
 
+!?[YouTube: Research Management](https://www.youtube.com/watch?v=C8G2TQwEJhc)
+
 ## Was haben wir beim letzten Mal nicht geschafft?
 
 ### Formeln
