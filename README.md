@@ -21,6 +21,8 @@ edit:     true
 
 # LiaScript-Tutorial-on-Research-Data-Mangement-2
 
+![Roboter](media/robot.png)
+
 This is the second part of the Come2Data workshop
 
 > Hier hat Sebastian eine Änderung vorgenommen.
